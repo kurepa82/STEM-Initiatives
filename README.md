@@ -3,3 +3,10 @@ The STEM education fosters creativity and divergent thinking alongside fundament
 
 ![Screenshot](STEM.jpg)
 
+## Who am I?
+
+Ever since I was a child I fell in love with robots, education and communication. All that put together led me to become an active and passionate volunteer in different Tech Women Communities. I am working as software developer in Ekumen [Ekumen Website](https://www.ekumenlabs.com/) and I am a teacher in a Technical High School [ETRR](http://www.tecnicarobertorocca.edu.ar/)
+
+## Goals :
+wip
+
