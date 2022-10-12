@@ -5,17 +5,17 @@ The STEM education fosters creativity and divergent thinking alongside fundament
 
 ## Who am I?
 
-Ever since I was a child I fell in love with robots, education and communication. All that put together led me to become an active and passionate volunteer in different Tech Women Communities. I am working as software developer in Ekumen [Ekumen Website](https://www.ekumenlabs.com/) and I am a teacher in a Technical High School [ETRR](http://www.tecnicarobertorocca.edu.ar/)
+Ever since I was a child I fell in love with robots, education and communication. All that put together led me to become an active and passionate volunteer in different Tech Women Communities. I am working as software developer in [Ekumen](https://www.ekumenlabs.com/) and I am a teacher at  [Roberto Rocca Technical High School](http://www.tecnicarobertorocca.edu.ar/).
 
 ## Goals :
 - To support skills development for underrepresented talent
-- To make sure organizations of the need for programs and practices that will engage young women who choose STEM fields
+- To make organizations aware of the need for programs to engage young women who choose STEM fields
 - To support tech women communities
-- To offering valuable mentoring opportunities
+- To offer valuable mentoring opportunities
 
 ## The content is organized as follows:
 
-The initiatives are grouped according to geographical areas, it is also possible to know a brief description, the country where these activities are carried out and the link to their website.
+The initiatives are grouped according to geographical areas. Each initiative may also include a brief description, the country where the activities are carried out and the link to their website.
 
 
-***Keep Calm And promote Diversity***
+***Keep calm and promote Diversity***
