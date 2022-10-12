@@ -1,5 +1,5 @@
 # STEM-Iniciatives
-The STEM education fosters creativity and divergent thinking alongside fundamental disciplines. It motivates and inspires young people to generate new technologies and ideas. Industry support for STEM iniciatives can build bridges to reduce gaps. 
+The STEM education fosters creativity and divergent thinking alongside fundamental disciplines. It motivates and inspires young people to generate new technologies and ideas. Industry support for STEM iniciatives can build bridges to reduce gaps. This list shows and makes visible non-profit communities that volunteer and offer free training to their community in person or virtually or offer scholarships for underrepresented groups in STEM areas.
 
 ![Screenshot](STEM.jpg)
 
@@ -19,3 +19,5 @@ The initiatives are grouped according to geographical areas. Each initiative may
 
 
 ***Keep calm and promote Diversity***
+
+
