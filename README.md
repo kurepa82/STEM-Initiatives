@@ -18,8 +18,6 @@ Ever since I was a child I fell in love with robots, education and communication
 The initiatives are grouped according to geographical areas. Each initiative may also include a brief description, the country where the activities are carried out and the link to their website.
 
 
-***Keep calm and promote Diversity***
-
 ![Diversity](diversity.jpg)
 
 
