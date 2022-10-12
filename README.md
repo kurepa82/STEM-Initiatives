@@ -20,4 +20,7 @@ The initiatives are grouped according to geographical areas. Each initiative may
 
 ***Keep calm and promote Diversity***
 
+![Diversity](keepcalm.jpeg)
+
+
 
