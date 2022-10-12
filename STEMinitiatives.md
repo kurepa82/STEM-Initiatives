@@ -1,18 +1,26 @@
 # STEM initiatives
 
-## America 
+## Americas
 | Name Project | Description | Country |link |
 | -- | -- | -- |-- |
 | Roboteam| Roboteam is an initiative carried out by volunteers within the framework of IEEE WIE Argentina with the purpose of encouraging scientific-technological vocations in children and adolescents through free workshops where they experience and learn about STEM disciplines, electricity, electronics, energy , programming and robotics in a fun way| Argentina| [Website](http://example.net/)|
 |  |  |  |  |
 | Science Expedition | Science Expedition science camps combine scientific exploration and adventure in nature in an intense experience of group experiences. In them there are no formulas or classes, but new ways of thinking and discovering. | Argentina | [Website](https://expedicionciencia.org.ar/campamentos-cientificos/) |
 | |  |  | |
+| Conectadas | The program is online and free and summons people who identify with the female gender.During the tens meeting, the participants will develop technical, impact and leadership skills to create digital projects with social impact| Argentina, Chile, Colombia, México, Perú y Uruguay | [Website](https://chicasentecnologia.org/sumate-a-conectadas/) | 
+| FREE 2022 AI4ALL Summer Program | This is a unique and engaging summer program to introduce current 8th- 11th grade students to the field of Artificial Intelligence (AI)| US | [Website](https://www.sfusd.edu/announcements/2022-03-23-free-stem-summer-program-high-school-students)|
+| |  |  | |
+| Peruviansinstem | We encourage more women to study #STEM careers through real testimonials| Peru | [Website](https://www.instagram.com/peruviansinstem/?igshid=YmMyMTA2M2Y%3D)|
+| |  |  | |
+| Mujeres en STEAM | Initiative to promote the participation of more women in the STEAM field: 👩‍🔬Science, 👩‍💻Technology, 👷‍♀️Engineering, 👩‍🎨Art and 👩‍🏫 Mathematics| Peru | [Website](https://www.instagram.com/mujeres_en_steam/?igshid=YmMyMTA2M2Y%3D)|
+| |  |  | |
+| Chicktech | Our objective is to increase the participation of women in the technological field by creating spaces for learning and empowerment | Peru | [Website](https://chicktech.org/) |
+| |  |  | || Chicktech | Supporting people of marginalized genders in tech with community, education, and inspiration | US | [Website](http://www.witperu.org/)|
+| |  |  | |
 | Chicktech | Supporting people of marginalized genders in tech with community, education, and inspiration | US | [Website](https://chicktech.org/) |
 | |  |  | || Chicktech | Supporting people of marginalized genders in tech with community, education, and inspiration | US | [Website](https://chicktech.org/) |
 | |  |  | |
 | Science For All| The vision of Science For All is to provide these students with workplace employability and technical skills necessary for securing jobs in the STEM fields | US | [Website](https://scitechinstitute.org/programs/science-for-all/)|
-| |  |  | |
-| Conectadas | The program is online and free and summons people who identify with the female gender.During the tens meeting, the participants will develop technical, impact and leadership skills to create digital projects with social impact| Argentina, Chile, Colombia, México, Perú y Uruguay | [Website](https://chicasentecnologia.org/sumate-a-conectadas/) | 
 | |  |  | |
 | FREE 2022 AI4ALL Summer Program | This is a unique and engaging summer program to introduce current 8th- 11th grade students to the field of Artificial Intelligence (AI)| US | [Website](https://www.sfusd.edu/announcements/2022-03-23-free-stem-summer-program-high-school-students)|
 | |  |  | |
