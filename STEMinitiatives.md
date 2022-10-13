@@ -48,10 +48,13 @@
 ## Oceania
 | Name Project | Description | Country |link |
 | -- | -- | -- |-- |
+| SHE# | Our mission is to bridge the gender gap in the STEM Industry, one woman at a time…
+We also aim to span across New Zealand and build She# nationwide | New Zeland |[Website](https://shesharp.org.nz/) |
+|  |  | | |
 | Sheflies | She Flies is Girl Geek Academy’s initiative to increase women representation, capacity, and cooperation in the fabulous fields of drones, space and aviation | Australia|[Website](https://girlgeekacademy.com/sheflies/) |
-|  |  |  |
+|  |  | | |
 
-## Women's communities
+# Women's communities
 | Name Project | Description | Country |link |
 | -- | -- | -- |-- |
 | Las deSistemas | We are a transfeminist community of women, lesbians, transvestites, trans and non-binary, who work in the technology industry and whose main objectives are: to make ourselves visible, empower ourselves, train ourselves, contain ourselves and transform our work spaces into inclusive places| Argentina | [Website](https://lasdesistemas.org/) |
@@ -69,9 +72,13 @@
 | Girls in Tech London | Tech is a nonprofit organization dedicated to eliminating the gender gap in tech. We have more than 60,000 members in 50+ chapters around the world |UK | [Website](https://london.girlsintech.org/about/)|
 | TechnovationGirls Madrid | Inspire girls and young women to become leaders and innovators. With the help of volunteer mentors, the girls develop projects that seek to solve problems in their environment through the use of technology and entrepreneurship | Spain | [Website](https://technovationgirlsmadrid.com/quienes-somos/)|
 |  |  |  ||
-| Women in Technology in Nigeria(WITIN)  | WITIN fosters opportunities in tech; promotes tech leadership, digital skills and entrepreneurship initiatives  and  advocates gender equity reforms for women and girls;  WITIN  also showcases the amazing women in the tech ecosystem as role model for girls while working closely with educators to bridge the leaky pipeline in STEAM(Science Technology Engineering Arts and Maths) | Nigeria | [Website](https://wit.ng/)|
+| Women in Technology and Science IRELAND| WITS actively engages in promoting the positive value of STEM to society and in forming and disseminating policy, especially where STEM research and decisions have an impact on women | Ireland | [Website](https://www.witsireland.com/activities/)|
 |  |  |  ||
 | Women in Technology in Nigeria(WITIN)  | WITIN fosters opportunities in tech; promotes tech leadership, digital skills and entrepreneurship initiatives  and  advocates gender equity reforms for women and girls;  WITIN  also showcases the amazing women in the tech ecosystem as role model for girls while working closely with educators to bridge the leaky pipeline in STEAM(Science Technology Engineering Arts and Maths) | Nigeria | [Website](https://wit.ng/)|
+|  |  |  ||
+| Women in Tech Finland   | Aims to encourage and support women and promote the values of diversity, equity and inclusion in technology | Finland | [Website](https://womenintech.fi/)|
+|  |  |  ||
+| Women in Tech South Africa  | Women in Tech ZA’s activities centre around the Women in Tech ZA site, which profiles local women in the technology sector. The premise is simple – if you are female and in tech, we want to feature you. The idea is to profile as many women as possible, across a range of roles and seniority levels | South Africa  | [Website](https://womenintech.co.za/blog/about-us/)|
 
 
 
