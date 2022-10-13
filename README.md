@@ -16,6 +16,7 @@ Ever since I was a child I fell in love with robots, education and communication
 ## The content is organized as follows:
 
 The initiatives are grouped according to geographical areas. Each initiative may also include a brief description, the country where the activities are carried out and the link to their website.
+![Areas](ckd-regions.jpg)
 
 
 ![Diversity](diversity.jpg)
