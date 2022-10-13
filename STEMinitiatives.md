@@ -1,6 +1,6 @@
 # STEM initiatives
 
-## Americas
+## Latin America
 | Name Project | Description | Country |link |
 | -- | -- | -- |-- |
 | Roboteam| Roboteam is an initiative carried out by volunteers within the framework of IEEE WIE Argentina with the purpose of encouraging scientific-technological vocations in children and adolescents through free workshops where they experience and learn about STEM disciplines, electricity, electronics, energy , programming and robotics in a fun way| Argentina| [Website](http://example.net/)|
@@ -21,6 +21,9 @@
 | |  |  | |
 | Witperu | Our objective is to increase the participation of women in the technological field by creating spaces for learning and empowerment | Peru | [Website](https://linktr.ee/witperu) |
 | |  |  | |
+## Nafta
+| Name Project | Description | Country |link |
+| -- | -- | -- |-- |
 | Chicktech | Supporting people of marginalized genders in tech with community, education, and inspiration | US | [Website](http://www.witperu.org/)|
 | |  |  | |
 | Chicktech | Supporting people of marginalized genders in tech with community, education, and inspiration | US | [Website](https://chicktech.org/) |
@@ -30,31 +33,27 @@
 | |  |  | |
 | FREE 2022 AI4ALL Summer Program | This is a unique and engaging summer program to introduce current 8th- 11th grade students to the field of Artificial Intelligence (AI)| US | [Website](https://www.sfusd.edu/announcements/2022-03-23-free-stem-summer-program-high-school-students)|
 
-## Europe
+## Emea
 | Name Project | Description | Country |link |
 | -- | -- | -- |-- |
 | Chicktech | Supporting people of marginalized genders in tech with community, education, and inspiration | US | [Website](https://chicktech.org/) |
 | |  |  | |
 | Chicktech | Supporting people of marginalized genders in tech with community, education, and inspiration | US | [Website](https://chicktech.org/) |
 | |  |  | |
-## Asia
+## Apac
 | Name Project | Description | Country |link |
 | -- | -- | -- |-- |
 | Chicktech | Supporting people of marginalized genders in tech with community, education, and inspiration | US | [Website](https://chicktech.org/) |
 | |  |  | |
 | Chicktech | Supporting people of marginalized genders in tech with community, education, and inspiration | US | [Website](https://chicktech.org/) |
 | |  |  | |
-
-## Oceania
-| Name Project | Description | Country |link |
-| -- | -- | -- |-- |
-| SHE# | Our mission is to bridge the gender gap in the STEM Industry, one woman at a time…
-We also aim to span across New Zealand and build She# nationwide | New Zeland |[Website](https://shesharp.org.nz/) |
+| SHE# | Our mission is to bridge the gender gap in the STEM Industry, one woman at a time. We also aim to span across New Zealand and build She# nationwide | New Zeland |[Website](https://shesharp.org.nz/) |
 |  |  | | |
 | Sheflies | She Flies is Girl Geek Academy’s initiative to increase women representation, capacity, and cooperation in the fabulous fields of drones, space and aviation | Australia|[Website](https://girlgeekacademy.com/sheflies/) |
 |  |  | | |
 
 # Women's communities
+## Latam
 | Name Project | Description | Country |link |
 | -- | -- | -- |-- |
 | Las deSistemas | We are a transfeminist community of women, lesbians, transvestites, trans and non-binary, who work in the technology industry and whose main objectives are: to make ourselves visible, empower ourselves, train ourselves, contain ourselves and transform our work spaces into inclusive places| Argentina | [Website](https://lasdesistemas.org/) |
@@ -67,6 +66,9 @@ We also aim to span across New Zealand and build She# nationwide | New Zeland |[
 |  |  |  ||
 | TecnoLatinas | We are a community that seeks to make visible, amplify and empower more voices of anyone who identifies as Latina in Technology through a support network and initiatives that inspire and motivate more women | México | [Website](https://technolatina-s.org/)|
 |  |  |  ||
+## Emea
+| Name Project | Description | Country |link |
+| -- | -- | -- |-- |
 | Girls in Tech Spain | We are a group of people in Spain, from novices to experts, who are committed to supporting women in technology right here, where we live | Spain | [Website](https://spain.girlsintech.org/)|
 |  |  |  ||
 | Girls in Tech London | Tech is a nonprofit organization dedicated to eliminating the gender gap in tech. We have more than 60,000 members in 50+ chapters around the world |UK | [Website](https://london.girlsintech.org/about/)|
