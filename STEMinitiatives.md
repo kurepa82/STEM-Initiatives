@@ -58,7 +58,21 @@
 |  |  |  ||
 | Chicas en Tecnologia | We are an Argentine non-profit civil society organization that since 2015 has sought to reduce the gender gap in the technological entrepreneurial environment at the regional level| Argentina | [Website](https://chicasentecnologia.org/) |
 |  |  |  ||
+| KuñaTech | KuñaTech is a community of Paraguayan Women from any area who are passionate about TECHNOLOGY 📱💻💡🔍🔬.We seek to provide support networks and generate spaces for development| Paraguay | [Website](https://linktr.ee/KunaTech) |
+|  |  |  ||
+| PYGirlsCode | We inspire girls and young women to generate a professional and social impact in their communities by creating with technology| Paraguay | [Website](https://linktr.ee/KunaTech) |
+|  |  |  ||
 | TecnoLatinas | We are a community that seeks to make visible, amplify and empower more voices of anyone who identifies as Latina in Technology through a support network and initiatives that inspire and motivate more women | México | [Website](https://technolatina-s.org/)|
+|  |  |  ||
+| Girls in Tech Spain | We are a group of people in Spain, from novices to experts, who are committed to supporting women in technology right here, where we live | Spain | [Website](https://spain.girlsintech.org/)|
+|  |  |  ||
+| Girls in Tech London | Tech is a nonprofit organization dedicated to eliminating the gender gap in tech. We have more than 60,000 members in 50+ chapters around the world |UK | [Website](https://london.girlsintech.org/about/)|
+| TechnovationGirls Madrid | Inspire girls and young women to become leaders and innovators. With the help of volunteer mentors, the girls develop projects that seek to solve problems in their environment through the use of technology and entrepreneurship | Spain | [Website](https://technovationgirlsmadrid.com/quienes-somos/)|
+|  |  |  ||
+| Women in Technology in Nigeria(WITIN)  | WITIN fosters opportunities in tech; promotes tech leadership, digital skills and entrepreneurship initiatives  and  advocates gender equity reforms for women and girls;  WITIN  also showcases the amazing women in the tech ecosystem as role model for girls while working closely with educators to bridge the leaky pipeline in STEAM(Science Technology Engineering Arts and Maths) | Nigeria | [Website](https://wit.ng/)|
+|  |  |  ||
+| Women in Technology in Nigeria(WITIN)  | WITIN fosters opportunities in tech; promotes tech leadership, digital skills and entrepreneurship initiatives  and  advocates gender equity reforms for women and girls;  WITIN  also showcases the amazing women in the tech ecosystem as role model for girls while working closely with educators to bridge the leaky pipeline in STEAM(Science Technology Engineering Arts and Maths) | Nigeria | [Website](https://wit.ng/)|
+
 
 
 
