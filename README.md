@@ -19,7 +19,7 @@ The initiatives are grouped according to geographical areas. Each initiative may
 ![Areas](ckd-regions.jpg)
 
 
-![Diversity](diversity.jpg)
+![Diversity](memes/diversity.jpg)
 
 
 
