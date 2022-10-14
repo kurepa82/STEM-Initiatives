@@ -9,12 +9,16 @@
 |  |  |  |  |
 | Incluyeme.com | We promote the employability of people with disabilities and accompany companies to implement social and labor inclusion strategies | Argentina | [Website](https://www.incluyeme.com/)|
 | |  |  | |
+| Fundacion KANO | We work with people with disabilities to reduce social gaps | Argentina | [Website](https://www.facebook.com/people/Fundacion-KANO/100065153526536/)|
+| |  |  | |
 | Conectadas | The program is online and free and summons people who identify with the female gender.During the tens meeting, the participants will develop technical, impact and leadership skills to create digital projects with social impact| Argentina, Chile, Colombia, México, Perú y Uruguay | [Website](https://chicasentecnologia.org/sumate-a-conectadas/) | 
 | |  |  | |
 | Niñas Pro | Empower girls and adolescents through teaching programming and inspire scientific and technological vocations| Chile | [Website](https://ninaspro.cl/#/)|
 | |  |  | |
 | Fundación Girls Change Latin America | Our mission is to strengthen in girls, boys and adolescents, values, STEAM skills (Science, Technology, Engineering, Arts and Mathematics) and attitudes towards the Sustainable Development Goals | Colombia | [Website](https://girlschangelatinamerica.org/voluntariado)|
 | |  |  | |
+| Ayudinga | seeks to increase its students' knowledge of science by providing audiovisual educational material with high quality standards, eliminate educational models inspired by principles of authority, coercion or repression with a free education based on trust and respect for the personality of students, provide opportunities of learning with free and non-profit solutions | Panama | [Website](https://ayudinga.org/)|
+
 
 ## Nafta
 | Name Project | Description | Country |link |
