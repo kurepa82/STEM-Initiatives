@@ -13,16 +13,9 @@
 | |  |  | |
 | Niñas Pro | Empower girls and adolescents through teaching programming and inspire scientific and technological vocations| Chile | [Website](https://ninaspro.cl/#/)|
 | |  |  | |
-| Technovation Girls Chile | We inspire girls and young women to be leaders and innovators through technology and entrepreneurship| Chile | [Website](https://technovation.cl/)|
-| |  |  | |
-| Peruviansinstem | We encourage more women to study #STEM careers through real testimonials| Peru | [Website](https://www.instagram.com/peruviansinstem/?igshid=YmMyMTA2M2Y%3D)|
-| |  |  | |
-| Mujeres en STEAM | Initiative to promote the participation of more women in the STEAM field: 👩‍🔬Science, 👩‍💻Technology, 👷‍♀️Engineering, 👩‍🎨Art and 👩‍🏫 Mathematics| Peru | [Website](https://www.instagram.com/mujeres_en_steam/?igshid=YmMyMTA2M2Y%3D)|
-| |  |  | |
 | Fundación Girls Change Latin America | Our mission is to strengthen in girls, boys and adolescents, values, STEAM skills (Science, Technology, Engineering, Arts and Mathematics) and attitudes towards the Sustainable Development Goals | Colombia | [Website](https://girlschangelatinamerica.org/voluntariado)|
 | |  |  | |
-| Witperu | Our objective is to increase the participation of women in the technological field by creating spaces for learning and empowerment | Peru | [Website](https://linktr.ee/witperu) |
-| |  |  | |
+
 ## Nafta
 | Name Project | Description | Country |link |
 | -- | -- | -- |-- |
@@ -68,14 +61,27 @@
 |  |  |  ||
 | PYGirlsCode | We inspire girls and young women to generate a professional and social impact in their communities by creating with technology| Paraguay | [Website](https://linktr.ee/KunaTech) |
 |  |  |  ||
+| Witperu | Our objective is to increase the participation of women in the technological field by creating spaces for learning and empowerment | Peru | [Website](https://linktr.ee/witperu) |
+| |  |  | |
+ Technovation Girls Chile | We inspire girls and young women to be leaders and innovators through technology and entrepreneurship| Chile | [Website](https://technovation.cl/)|
+| |  |  | |
+| Peruviansinstem | We encourage more women to study #STEM careers through real testimonials| Peru | [Website](https://www.instagram.com/peruviansinstem/?igshid=YmMyMTA2M2Y%3D)|
+| |  |  | |
+| Mujeres en STEAM | Initiative to promote the participation of more women in the STEAM field: 👩‍🔬Science, 👩‍💻Technology, 👷‍♀️Engineering, 👩‍🎨Art and 👩‍🏫 Mathematics| Peru | [Website](https://www.instagram.com/mujeres_en_steam/?igshid=YmMyMTA2M2Y%3D)|
+| |  |  | |
+## Nafta
+| Name Project | Description | Country |link |
+| -- | -- | -- |-- |
 | TecnoLatinas | We are a community that seeks to make visible, amplify and empower more voices of anyone who identifies as Latina in Technology through a support network and initiatives that inspire and motivate more women | México | [Website](https://technolatina-s.org/)|
 |  |  |  ||
+
 ## Emea
 | Name Project | Description | Country |link |
 | -- | -- | -- |-- |
 | Girls in Tech Spain | We are a group of people in Spain, from novices to experts, who are committed to supporting women in technology right here, where we live | Spain | [Website](https://spain.girlsintech.org/)|
 |  |  |  ||
 | Girls in Tech London | Tech is a nonprofit organization dedicated to eliminating the gender gap in tech. We have more than 60,000 members in 50+ chapters around the world |UK | [Website](https://london.girlsintech.org/about/)|
+|  |  |  ||
 | TechnovationGirls Madrid | Inspire girls and young women to become leaders and innovators. With the help of volunteer mentors, the girls develop projects that seek to solve problems in their environment through the use of technology and entrepreneurship | Spain | [Website](https://technovationgirlsmadrid.com/quienes-somos/)|
 |  |  |  ||
 | Women in Technology and Science IRELAND| WITS actively engages in promoting the positive value of STEM to society and in forming and disseminating policy, especially where STEM research and decisions have an impact on women | Ireland | [Website](https://www.witsireland.com/activities/)|
