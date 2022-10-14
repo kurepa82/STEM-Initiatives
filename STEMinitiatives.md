@@ -51,7 +51,7 @@
 | Sheflies | She Flies is Girl Geek Academy’s initiative to increase women representation, capacity, and cooperation in the fabulous fields of drones, space and aviation | Australia|[Website](https://girlgeekacademy.com/sheflies/) |
 |  |  | | |
 
-# Women's communities
+# underrepresented's communities
 ## Latam
 | Name Project | Description | Country |link |
 | -- | -- | -- |-- |
