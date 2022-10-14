@@ -18,6 +18,17 @@ Ever since I was a child I fell in love with robots, education and communication
 The initiatives are grouped according to geographical areas. Each initiative may also include a brief description, the country where the activities are carried out and the link to their website.
 ![Areas](ckd-regions.jpg)
 
+## Underrepresented communities:
+
+If you know a community that you would like to mention, highlight an underrepresented group in technology, do not hesitate to mention it, it is important to make volunteer work visible and strengthen these communities that serve as foundations for the STEM world
+
+## Ways to collaborate:
+- Share this repository with other people who want to help or support these communities
+- Make a PR (pull request) with information from a technical underrepresented community that you would like to see featured or a project from a non-profit organization that supports STEM education ( Name of project, Description,Country, Link) 
+- Just sent me a email to belentorr28@gmail.com with a link of a STEM Project, the subject should be Stem initiatives.
+
+## Memes
+Feel free to generate a meme with this [page](https://www.crearmemes.es/) about things that you have heard absurd or things that you think are necessary to be communicated
 
 ![Diversity](memes/diversity.jpg)
 
