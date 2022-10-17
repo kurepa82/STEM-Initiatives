@@ -17,6 +17,8 @@
 | |  |  | |
 | Fundación Girls Change Latin America | Our mission is to strengthen in girls, boys and adolescents, values, STEAM skills (Science, Technology, Engineering, Arts and Mathematics) and attitudes towards the Sustainable Development Goals | Colombia | [Website](https://girlschangelatinamerica.org/voluntariado)|
 | |  |  | |
+| Geek Girls Latam| We inspire, empower and connect Latina girls and women with their leadership in creative, scientific and technological fields | Colombia | [Website](https://geekgirlslatam.org/)|
+| |  |  | |
 | Ayudinga | seeks to increase its students' knowledge of science by providing audiovisual educational material with high quality standards, eliminate educational models inspired by principles of authority, coercion or repression with a free education based on trust and respect for the personality of students, provide opportunities of learning with free and non-profit solutions | Panama | [Website](https://ayudinga.org/)|
 
 
