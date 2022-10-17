@@ -19,7 +19,9 @@
 | |  |  | |
 | Geek Girls Latam| We inspire, empower and connect Latina girls and women with their leadership in creative, scientific and technological fields | Colombia | [Website](https://geekgirlslatam.org/)|
 | |  |  | |
-| Ayudinga | seeks to increase its students' knowledge of science by providing audiovisual educational material with high quality standards, eliminate educational models inspired by principles of authority, coercion or repression with a free education based on trust and respect for the personality of students, provide opportunities of learning with free and non-profit solutions | Panama | [Website](https://ayudinga.org/)|
+| Ayudinga | Seeks to increase its students' knowledge of science by providing audiovisual educational material with high quality standards, eliminate educational models inspired by principles of authority, coercion or repression with a free education based on trust and respect for the personality of students, provide opportunities of learning with free and non-profit solutions | Panama | [Website](https://ayudinga.org/)|
+| |  |  | |
+| Latinas en Computing | We are a community created by and for Latinas in Computing, with a mission of promoting our representation and success in computing-related fields | LATAM | [Website](https://latinasincomputing.org/)|
 
 
 ## Nafta
@@ -27,8 +29,9 @@
 | -- | -- | -- |-- |
 | Chicktech | Supporting people of marginalized genders in tech with community, education, and inspiration | US | [Website](http://www.witperu.org/)|
 | |  |  | |
-| Chicktech | Supporting people of marginalized genders in tech with community, education, and inspiration | US | [Website](https://chicktech.org/) |
-| |  |  | || Chicktech | Supporting people of marginalized genders in tech with community, education, and inspiration | US | [Website](https://chicktech.org/) |
+| Epic Queen | We empower and inspire girls and women to be curious, courageous and confident through STEM content | Mexico | [Website](https://epicqueen.com/) |
+| |  |  | |
+| Chicktech | Supporting people of marginalized genders in tech with community, education, and inspiration | US | [Website](https://chicktech.org/)|
 | |  |  | |
 | Science For All| The vision of Science For All is to provide these students with workplace employability and technical skills necessary for securing jobs in the STEM fields | US | [Website](https://scitechinstitute.org/programs/science-for-all/)|
 | |  |  | |
@@ -53,7 +56,7 @@
 | Sheflies | She Flies is Girl Geek Academy’s initiative to increase women representation, capacity, and cooperation in the fabulous fields of drones, space and aviation | Australia|[Website](https://girlgeekacademy.com/sheflies/) |
 |  |  | | |
 
-# underrepresented's communities
+# Underrepresented's communities
 ## Latam
 | Name Project | Description | Country |link |
 | -- | -- | -- |-- |
@@ -62,6 +65,8 @@
 | Chicas en Tecnologia | We are an Argentine non-profit civil society organization that since 2015 has sought to reduce the gender gap in the technological entrepreneurial environment at the regional level| Argentina | [Website](https://chicasentecnologia.org/) |
 |  |  |  ||
 | WIE Argentina | Women in Engineering (WIE) is one of the largest international professional organizations dedicated to making women engineers, scientists and technologists visible, and inspiring girls around the world to pursue their academic interests in a career in engineering and science| Argentina | [Website](https://ewh.ieee.org/r9/argentina/wie/) |
+|  |  |  ||
+| Mujeres en IT | Our goal is to reach our peers, talk face to face with the IT woman. Understand her from her role as a mother, as a head of household, as a woman who projects herself and who started from the bottom, or who has perceived gender inequality in the field| Uruguay | [Website](https://mujeresit.com/) |
 |  |  |  ||
 | KuñaTech | KuñaTech is a community of Paraguayan Women from any area who are passionate about TECHNOLOGY 📱💻💡🔍🔬.We seek to provide support networks and generate spaces for development| Paraguay | [Website](https://linktr.ee/KunaTech) |
 |  |  |  ||
@@ -74,6 +79,8 @@
 | Peruviansinstem | We encourage more women to study #STEM careers through real testimonials| Peru | [Website](https://www.instagram.com/peruviansinstem/?igshid=YmMyMTA2M2Y%3D)|
 | |  |  | |
 | Mujeres en STEAM | Initiative to promote the participation of more women in the STEAM field: 👩‍🔬Science, 👩‍💻Technology, 👷‍♀️Engineering, 👩‍🎨Art and 👩‍🏫 Mathematics| Peru | [Website](https://www.instagram.com/mujeres_en_steam/?igshid=YmMyMTA2M2Y%3D)|
+| |  |  | |
+| Pioneras Dev | NGO Community for #WomenInTech 🇨🇴 | Colombia | [Website](https://twitter.com/pionerasdev)|
 | |  |  | |
 ## Nafta
 | Name Project | Description | Country |link |
