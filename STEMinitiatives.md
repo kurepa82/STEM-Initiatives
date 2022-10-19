@@ -97,6 +97,8 @@
 |  |  |  ||
 | TechnovationGirls Madrid | Inspire girls and young women to become leaders and innovators. With the help of volunteer mentors, the girls develop projects that seek to solve problems in their environment through the use of technology and entrepreneurship | Spain | [Website](https://technovationgirlsmadrid.com/quienes-somos/)|
 |  |  |  ||
+| Women in AI & Robotics  | Our mission is to close the gender gap in AI & Robotics and increase female representation and participation through mentorship, education, hackathons, and startup accelerator programs | Germany | [Website](https://www.womeninairobotics.de/)|
+|  |  |  ||
 | Women in Technology and Science IRELAND| WITS actively engages in promoting the positive value of STEM to society and in forming and disseminating policy, especially where STEM research and decisions have an impact on women | Ireland | [Website](https://www.witsireland.com/activities/)|
 |  |  |  ||
 | Women in Technology in Nigeria(WITIN)  | WITIN fosters opportunities in tech; promotes tech leadership, digital skills and entrepreneurship initiatives  and  advocates gender equity reforms for women and girls;  WITIN  also showcases the amazing women in the tech ecosystem as role model for girls while working closely with educators to bridge the leaky pipeline in STEAM(Science Technology Engineering Arts and Maths) | Nigeria | [Website](https://wit.ng/)|
