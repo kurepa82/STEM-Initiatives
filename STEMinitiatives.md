@@ -122,6 +122,18 @@
 |  |  |  ||
 | Women in Tech South Africa  | Women in Tech ZA’s activities centre around the Women in Tech ZA site, which profiles local women in the technology sector. The premise is simple – if you are female and in tech, we want to feature you. The idea is to profile as many women as possible, across a range of roles and seniority levels | South Africa  | [Website](https://womenintech.co.za/blog/about-us/)|
 
+## Apac
+| Name Project | Description | Country |link |
+| -- | -- | -- |-- |
+| WITJ - Women In Technology Japan | WITJ is a volunteer organization to create a community for professional IT | Japan |[Website](https://www.facebook.com/WITJapan/) |
+|  |  | | |
+| Women in Tech Russia| Helping Women and Girls #EmbraceTech | Russia |[Website](https://www.facebook.com/womenintechrus/) |
+|  |  | | |
+| Iranian Women in Computing| Is a nonprofit organization which aims at building a strong network of Iranian women working or studying in different computing related fields in the US to improve their visibility and impact in the US tech community via collaboration, exchanging ideas and resources and holding regular meetups | Iran/US |[Website](https://www.womenintechapac.com/)| 
+|  |  | | |
+| We are Women in Tech APAC| Women in Tech APAC is dedicated to help women advance by connecting them with other professional women working across all technology sectors | APAC |[Website](https://www.womenintechapac.com/)| 
+|  |  | | |
+
 
 
 
