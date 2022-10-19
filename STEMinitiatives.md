@@ -42,6 +42,8 @@
 | -- | -- | -- |-- |
 | Territorio STEAM| We build a community to PROMOTE and STRENGTHEN technology in families, teachers and educators, women | Spain/Latam | [Website](https://territoriosteam.es/) |
 | |  |  | |
+| Geek Girls Carrots | We gather to inspire, learn from each other, share knowledge. We believe that girls in new technologies are the avant-garde of innovation. We want to overcome stereotypes by bringing more diversity into tech world. Find out what we do, where and when you can join and start coding |Polska | [Website](https://gocarrots.org/) |
+| |  |  | |
 | Asante Africa | Everyone has talent and potential but not everyone has access to opportunities. We work to address this gap by partnering with local schools and communities in East Africa to provide youth the educational resources and support they need to reach their full potential. |Kenya, Tanzania, Uganda | [Website](https://asanteafrica.org/about-us/) |
 | |  |  | |
 
@@ -87,6 +89,10 @@
 | Name Project | Description | Country |link |
 | -- | -- | -- |-- |
 | TecnoLatinas | We are a community that seeks to make visible, amplify and empower more voices of anyone who identifies as Latina in Technology through a support network and initiatives that inspire and motivate more women | México | [Website](https://technolatina-s.org/)|
+|  |  |  ||
+| Black girls code | Building pathways for Black girls to embrace the current tech marketplace as builders and creators by introducing them to computer programming and technology skills |US | [Website](https://wearebgc.org/)|
+|  |  |  ||
+| Lesbians who tech | There are so many groups and startups that are fighting for our rights, and they need our support. Lesbians Who Tech & Allies provides a platform to raise awareness of their work, connecting these organizations to queer women, and non-binary and trans people in tech |US | [Website](https://lesbianswhotech.org/sanfrancisco2022/)|
 |  |  |  ||
 
 ## Emea
