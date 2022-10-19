@@ -44,6 +44,8 @@
 | |  |  | |
 | Geek Girls Carrots | We gather to inspire, learn from each other, share knowledge. We believe that girls in new technologies are the avant-garde of innovation. We want to overcome stereotypes by bringing more diversity into tech world. Find out what we do, where and when you can join and start coding |Polska | [Website](https://gocarrots.org/) |
 | |  |  | |
+| Ping a Programadoras | we are a community of women and non-binary gender people who help each other, empower each other and seek to build a fairer world | Spain | [Website](https://pingprogramadoras.org/)|
+| |  |  | | 
 | Asante Africa | Everyone has talent and potential but not everyone has access to opportunities. We work to address this gap by partnering with local schools and communities in East Africa to provide youth the educational resources and support they need to reach their full potential. |Kenya, Tanzania, Uganda | [Website](https://asanteafrica.org/about-us/) |
 | |  |  | |
 
@@ -94,6 +96,8 @@
 |  |  |  ||
 | Lesbians who tech | There are so many groups and startups that are fighting for our rights, and they need our support. Lesbians Who Tech & Allies provides a platform to raise awareness of their work, connecting these organizations to queer women, and non-binary and trans people in tech |US | [Website](https://lesbianswhotech.org/sanfrancisco2022/)|
 |  |  |  ||
+| Out in Tech | Out in Tech is the world’s largest non-profit community of LGBTQ+ tech leaders |US | [Website](https://outintech.com/mission/)|
+|  |  |  ||
 
 ## Emea
 | Name Project | Description | Country |link |
@@ -101,6 +105,8 @@
 | Girls in Tech Spain | We are a group of people in Spain, from novices to experts, who are committed to supporting women in technology right here, where we live | Spain | [Website](https://spain.girlsintech.org/)|
 |  |  |  ||
 | Girls in Tech London | Tech is a nonprofit organization dedicated to eliminating the gender gap in tech. We have more than 60,000 members in 50+ chapters around the world |UK | [Website](https://london.girlsintech.org/about/)|
+|  |  |  ||
+| Rails girls London | Our aim is to give tools and a community for women to understand technology and to build their ideas. We do this by providing a great experience on building things and by making technology more approachable |UK | [Website](https://www.instagram.com/rails_girls_london/)|
 |  |  |  ||
 | TechnovationGirls Madrid | Inspire girls and young women to become leaders and innovators. With the help of volunteer mentors, the girls develop projects that seek to solve problems in their environment through the use of technology and entrepreneurship | Spain | [Website](https://technovationgirlsmadrid.com/quienes-somos/)|
 |  |  |  ||
