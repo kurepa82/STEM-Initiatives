@@ -52,10 +52,6 @@
 ## Apac
 | Name Project | Description | Country |link |
 | -- | -- | -- |-- |
-| Chicktech | Supporting people of marginalized genders in tech with community, education, and inspiration | US | [Website](https://chicktech.org/) |
-| |  |  | |
-| Chicktech | Supporting people of marginalized genders in tech with community, education, and inspiration | US | [Website](https://chicktech.org/) |
-| |  |  | |
 | SHE# | Our mission is to bridge the gender gap in the STEM Industry, one woman at a time. We also aim to span across New Zealand and build She# nationwide | New Zeland |[Website](https://shesharp.org.nz/) |
 |  |  | | |
 | Sheflies | She Flies is Girl Geek Academy’s initiative to increase women representation, capacity, and cooperation in the fabulous fields of drones, space and aviation | Australia|[Website](https://girlgeekacademy.com/sheflies/) |
@@ -65,13 +61,15 @@
 ## Latam
 | Name Project | Description | Country |link |
 | -- | -- | -- |-- |
-| Las deSistemas | We are a transfeminist community of women, lesbians, transvestites, trans and non-binary, who work in the technology industry and whose main objectives are: to make ourselves visible, empower ourselves, train ourselves, contain ourselves and transform our work spaces into inclusive places| Argentina | [Website](https://lasdesistemas.org/) |
+| Las de Sistemas | We are a transfeminist community of women, lesbians, transvestites, trans and non-binary, who work in the technology industry and whose main objectives are: to make ourselves visible, empower ourselves, train ourselves, contain ourselves and transform our work spaces into inclusive places| Argentina | [Website](https://lasdesistemas.org/) |
 |  |  |  ||
 | Chicas en Tecnologia | We are an Argentine non-profit civil society organization that since 2015 has sought to reduce the gender gap in the technological entrepreneurial environment at the regional level| Argentina | [Website](https://chicasentecnologia.org/) |
 |  |  |  ||
 | WIE Argentina | Women in Engineering (WIE) is one of the largest international professional organizations dedicated to making women engineers, scientists and technologists visible, and inspiring girls around the world to pursue their academic interests in a career in engineering and science| Argentina | [Website](https://ewh.ieee.org/r9/argentina/wie/) |
 |  |  |  ||
 | Mujeres en IT | Our goal is to reach our peers, talk face to face with the IT woman. Understand her from her role as a mother, as a head of household, as a woman who projects herself and who started from the bottom, or who has perceived gender inequality in the field| Uruguay | [Website](https://mujeresit.com/) |
+|  |  |  ||
+|  Brazilians in Tech | A Brazilians in Tech é um espaço para conectar, encorajar e empoderar brasileiras estudando e trabalhando nas áreas de Ciência, Tecnologia, Computação e Engenharia| Brazil | [Website](https://braziliansintech.com/) |
 |  |  |  ||
 | KuñaTech | KuñaTech is a community of Paraguayan Women from any area who are passionate about TECHNOLOGY 📱💻💡🔍🔬.We seek to provide support networks and generate spaces for development| Paraguay | [Website](https://linktr.ee/KunaTech) |
 |  |  |  ||
@@ -98,6 +96,8 @@
 |  |  |  ||
 | Out in Tech | Out in Tech is the world’s largest non-profit community of LGBTQ+ tech leaders |US | [Website](https://outintech.com/mission/)|
 |  |  |  ||
+| Native in Tech | Craft free and open source technology that empowers Native peoples |US | [Website](https://nativesintech.org/)|
+|  |  |  ||
 
 ## Emea
 | Name Project | Description | Country |link |
@@ -107,6 +107,8 @@
 | Girls in Tech London | Tech is a nonprofit organization dedicated to eliminating the gender gap in tech. We have more than 60,000 members in 50+ chapters around the world |UK | [Website](https://london.girlsintech.org/about/)|
 |  |  |  ||
 | Rails girls London | Our aim is to give tools and a community for women to understand technology and to build their ideas. We do this by providing a great experience on building things and by making technology more approachable |UK | [Website](https://www.instagram.com/rails_girls_london/)|
+|  |  |  ||
+| SheCanCode | On a mission to close the Tech Gender Gap,we help women to enter, remain, and excel in the tech industryand help companies to attract and hire a more diverse workforce |UK | [Website](https://www.shecancode.io/)|
 |  |  |  ||
 | TechnovationGirls Madrid | Inspire girls and young women to become leaders and innovators. With the help of volunteer mentors, the girls develop projects that seek to solve problems in their environment through the use of technology and entrepreneurship | Spain | [Website](https://technovationgirlsmadrid.com/quienes-somos/)|
 |  |  |  ||
