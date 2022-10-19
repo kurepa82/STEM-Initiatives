@@ -121,7 +121,7 @@
 | Women in Tech Finland   | Aims to encourage and support women and promote the values of diversity, equity and inclusion in technology | Finland | [Website](https://womenintech.fi/)|
 |  |  |  ||
 | Women in Tech South Africa  | Women in Tech ZA’s activities centre around the Women in Tech ZA site, which profiles local women in the technology sector. The premise is simple – if you are female and in tech, we want to feature you. The idea is to profile as many women as possible, across a range of roles and seniority levels | South Africa  | [Website](https://womenintech.co.za/blog/about-us/)|
-[AnitaB.org](https://ghc.anitab.org/)
+
 
 
 
@@ -137,5 +137,6 @@
 - [Experiments with Google](https://experiments.withgoogle.com/collection/arts-culture)
 - [STEM- Microsoft Education](https://www.microsoft.com/es-xl/education/educators/stem)
 - [Tinkercad](https://www.tinkercad.com/)
+- [AnitaB.org](https://ghc.anitab.org/)
 
 
