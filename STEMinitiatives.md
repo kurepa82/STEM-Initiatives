@@ -42,8 +42,9 @@
 | -- | -- | -- |-- |
 | Territorio STEAM| We build a community to PROMOTE and STRENGTHEN technology in families, teachers and educators, women | Spain/Latam | [Website](https://territoriosteam.es/) |
 | |  |  | |
-| Chicktech | Supporting people of marginalized genders in tech with community, education, and inspiration | US | [Website](https://chicktech.org/) |
+| Asante Africa | Everyone has talent and potential but not everyone has access to opportunities. We work to address this gap by partnering with local schools and communities in East Africa to provide youth the educational resources and support they need to reach their full potential. |Kenya, Tanzania, Uganda | [Website](https://asanteafrica.org/about-us/) |
 | |  |  | |
+
 ## Apac
 | Name Project | Description | Country |link |
 | -- | -- | -- |-- |
@@ -117,11 +118,10 @@
 - [Why We Need Diversity in Technology](https://www.youtube.com/watch?v=OOQfQwxCOF0)
 - [We Are All Different ](https://www.youtube.com/watch?v=sQuM5e0QGLg&t=94s)
 - [Get comfortable with being uncomfortable ](https://www.youtube.com/watch?v=QijH4UAqGD8)
-- [AnitaB.org](https://ghc.anitab.org/)
+- [National Science Digital Library](https://nsdl.oercommons.org/)
 - [Phet: Interactive Science and Math Simulations](https://phet.colorado.edu/es/)
 - [Experiments with Google](https://experiments.withgoogle.com/collection/arts-culture)
 - [STEM- Microsoft Education](https://www.microsoft.com/es-xl/education/educators/stem)
-- [STEM- Microsoft Education](https://www.microsoft.com/es-xl/education/educators/stem)
-- [Phet: Interactive Science and Math Simulations](https://phet.colorado.edu/es/)
+- [Tinkercad](https://www.tinkercad.com/)
 
 
