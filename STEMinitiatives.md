@@ -106,10 +106,22 @@
 | Women in Tech Finland   | Aims to encourage and support women and promote the values of diversity, equity and inclusion in technology | Finland | [Website](https://womenintech.fi/)|
 |  |  |  ||
 | Women in Tech South Africa  | Women in Tech ZA’s activities centre around the Women in Tech ZA site, which profiles local women in the technology sector. The premise is simple – if you are female and in tech, we want to feature you. The idea is to profile as many women as possible, across a range of roles and seniority levels | South Africa  | [Website](https://womenintech.co.za/blog/about-us/)|
+[AnitaB.org](https://ghc.anitab.org/)
 
 
 
 
-## Resources
+## Free resources
 - [TryEngineering](https://tryengineering.org/es/volunteer-stem-portal/volunteer-stem-resources/)
+- [Sustainable Development](https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/) 
+- [Why We Need Diversity in Technology](https://www.youtube.com/watch?v=OOQfQwxCOF0)
+- [We Are All Different ](https://www.youtube.com/watch?v=sQuM5e0QGLg&t=94s)
+- [Get comfortable with being uncomfortable ](https://www.youtube.com/watch?v=QijH4UAqGD8)
+- [AnitaB.org](https://ghc.anitab.org/)
+- [Phet: Interactive Science and Math Simulations](https://phet.colorado.edu/es/)
+- [Experiments with Google](https://experiments.withgoogle.com/collection/arts-culture)
+- [STEM- Microsoft Education](https://www.microsoft.com/es-xl/education/educators/stem)
+- [STEM- Microsoft Education](https://www.microsoft.com/es-xl/education/educators/stem)
+- [Phet: Interactive Science and Math Simulations](https://phet.colorado.edu/es/)
+
 
