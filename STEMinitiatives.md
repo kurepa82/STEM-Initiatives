@@ -120,7 +120,11 @@
 |  |  |  ||
 | Women in Tech Finland   | Aims to encourage and support women and promote the values of diversity, equity and inclusion in technology | Finland | [Website](https://womenintech.fi/)|
 |  |  |  ||
+| Womentechiceland  | WomenTechIceland is a touch point for events, news and discussions around women and technology in Iceland, connecting the world to those driving Iceland tech innovation | Iceland | [Website](https://www.womentechiceland.com/)|
+|  |  |  ||
 | Women in Tech South Africa  | Women in Tech ZA’s activities centre around the Women in Tech ZA site, which profiles local women in the technology sector. The premise is simple – if you are female and in tech, we want to feature you. The idea is to profile as many women as possible, across a range of roles and seniority levels | South Africa  | [Website](https://womenintech.co.za/blog/about-us/)|
+|  |  |  ||
+| Moroccan Women and Technology in focus  | A project launched by the Arab Center for research, brings together practitioners, academics and dec | Morocco  | [Website](https://www.facebook.com/MoroccanWomenAndTechnology/)|
 
 ## Apac
 | Name Project | Description | Country |link |
