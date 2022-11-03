@@ -48,6 +48,8 @@
 | |  |  | | 
 | Asante Africa | Everyone has talent and potential but not everyone has access to opportunities. We work to address this gap by partnering with local schools and communities in East Africa to provide youth the educational resources and support they need to reach their full potential. |Kenya, Tanzania, Uganda | [Website](https://asanteafrica.org/about-us/) |
 | |  |  | |
+| wITches | We are students from the Faculty of Electrical Engineering in Czech Technical University in Prague, and our group is called wITches. We organize fun and free STEM courses for children from 10 to 15 years. We aim to increase children's interest in computer science and electrical engineering and develop an exciting collaboration with boys and girls in STEM projects. | Czech Republic | [Website](https://witches.fel.cvut.cz/) |
+| |  |  | |
 
 ## Apac
 | Name Project | Description | Country |link |
