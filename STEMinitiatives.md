@@ -65,8 +65,7 @@
 | -- | -- | -- |-- |
 | Las de Sistemas | We are a transfeminist community of women, lesbians, transvestites, trans and non-binary, who work in the technology industry and whose main objectives are: to make ourselves visible, empower ourselves, train ourselves, contain ourselves and transform our work spaces into inclusive places| Argentina | [Website](https://lasdesistemas.org/) |
 |  |  |  ||
-| -- | -- | -- |-- |
-| Women who code Argentina | Inspires women to Excel in technology careers| Argentina | [Website](https://womenwhocode.com/Buenos Aires/) |
+| Women who code Argentina | Inspires women to Excel in technology careers| Argentina | [Website](https://womenwhocode.com/buenos aires/) |
 |  |  |  ||
 | Chicas en Tecnologia | We are an Argentine non-profit civil society organization that since 2015 has sought to reduce the gender gap in the technological entrepreneurial environment at the regional level| Argentina | [Website](https://chicasentecnologia.org/) |
 |  |  |  ||
